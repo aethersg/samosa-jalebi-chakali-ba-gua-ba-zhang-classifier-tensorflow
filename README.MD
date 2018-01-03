@@ -4,13 +4,13 @@ cd ~
 
 mkdir tf_files
 
-csgm30002:tf_files tanj1$ ls
+tf_files $ ls
 
 bottlenecks             food                    inception               label_image.py          retrained_graph.pb      retrained_labels.txt
 
-csgm30002:tf_files tanj1$ cd food/
+tf_files $ cd food/
 
-csgm30002:food tanj1$ ls
+food $ ls
 
 ba_gua          ba_zhang        chakli          jalebi          samosa
 
@@ -51,9 +51,11 @@ You will get a result something like this:
 For Ba Gua:
 
 ba gua (score = 0.97737)
+
 ba zhang (score = 0.02263)
 
 For Ba Zhang:
 
 ba zhang (score = 0.96333)
+
 ba gua (score = 0.03667)
