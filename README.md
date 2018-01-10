@@ -50,7 +50,6 @@ python /tensorflow/tensorflow/examples/image_retraining/retrain.py \
 
 ```
 python /tf_files/label_image.py /tf_files/food/ba_gua/pic_001.jpg
-
 ```
 
 ######You will get a result something like this:
